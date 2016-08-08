@@ -5,7 +5,7 @@
     "Rohan Deshpande"
   ],
   "description": "Just a copy/paste of the umd version of react-router",
-  "main": "react-router-umd.js",
+  "main": "dist/react-router-umd.js",
   "moduleType": [],
   "license": "MIT",
   "homepage": "https://github.com/rohan-deshpande/react-router-umd.git",
