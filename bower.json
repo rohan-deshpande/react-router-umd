@@ -1,10 +1,10 @@
 {
   "name": "react-router-umd",
-  "version": "0.0.1",
+  "version": "3.2.1",
   "authors": [
     "Rohan Deshpande"
   ],
-  "description": "Just a copy/paste of the umd version of react-router",
+  "description": "Just a copy/paste of the umd build of react-router@3.2.1",
   "main": "dist/react-router-umd.js",
   "moduleType": [],
   "license": "MIT",

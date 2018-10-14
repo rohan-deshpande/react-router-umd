@@ -1,0 +1,25 @@
+{
+  "name": "react-router-umd",
+  "version": "3.2.1",
+  "description": "Just a copy/paste of the umd build of react-router@3.2.1",
+  "main": "dist/react-router-umd.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan-deshpande/react-router-umd.git"
+  },
+  "keywords": [
+    "react",
+    "react-router",
+    "umd"
+  ],
+  "authors": [
+    "Ryan Florence",
+    "Michael Jackson",
+    "Rohan Deshpande"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rohan-deshpande/react-router-umd/issues"
+  },
+  "homepage": "https://github.com/rohan-deshpande/react-router-umd#readme"
+}
